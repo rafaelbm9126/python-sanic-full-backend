@@ -1,0 +1,13 @@
+venv
+*.pyc
+*.log
+staticfiles
+*.sqlite3
+*.sqlite
+*.db
+getting-started/*
+**/report.txt
+**/upload_file/**
+*.env
+**/mock/**
+**/__pycache__
